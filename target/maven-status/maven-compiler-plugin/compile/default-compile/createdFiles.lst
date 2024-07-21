@@ -1,0 +1,5 @@
+org\carlospriego\webapp\service\IProductoService.class
+org\carlospriego\webapp\util\JpaUtil.class
+org\carlospriego\webapp\models\Producto.class
+org\carlospriego\webapp\servlet\ProductoServlet.class
+org\carlospriego\webapp\service\ProductoService.class
